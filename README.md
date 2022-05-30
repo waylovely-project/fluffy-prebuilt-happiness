@@ -11,6 +11,15 @@ The Windows pre-built packages were built for x86_64 with [gvsbuild](https://git
 
 At the moment, pre-packages for MacOS aren't available yet. You will have to [built themselves manually](https://www.gtk.org/docs/installations/macos/). 😊
 
+## Packages
+These packages and their dependencies are available in the Zip file.
+
+- Gtk4
+- GtkSourceView 5
+- Adwaita Icon Theme
+
+If you need more, please let me know by creating an issue. 🙂 
+
 ## Installation
 
 Just extract the lovely `gtk.zip` file from the [releases](https://github.com/EchidnaHQ/fluffy-prebuilt-happiness/releases) page to somewhere in your drive. Then [add the folder's location to the path](https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)#to-add-a-path-to-the-path-environment-variable). 
