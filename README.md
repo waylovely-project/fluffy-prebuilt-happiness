@@ -7,7 +7,7 @@ I honestly wish to encourage more people to contribute to [Echidna Code](https:/
 I know on Windows, there's [MSYS2](https://www.msys2.org/), but they only provide packages built with Clang or MinGW, not MSVC, the preferred buildtools for building things on Windows. 
 
 ## Build Information
-The Windows pre-built packages were built with [gvsbuild](https://github.com/wingtk/gvsbuild/) with default configurations on my lovely laptop. Unfortunately, gvsbuild does not support [reproducible builds](https://reproducible-builds.org/). There's [this issue](https://github.com/wingtk/gvsbuild/issues/200), but there were no comments nor activities.
+The Windows pre-built packages were built for x86_64 with [gvsbuild](https://github.com/wingtk/gvsbuild/) with default configurations on my lovely laptop. Unfortunately, gvsbuild does not support [reproducible builds](https://reproducible-builds.org/). There's [this issue](https://github.com/wingtk/gvsbuild/issues/200), but there were no comments nor activities. 
 
 At the moment, pre-packages for MacOS aren't available yet. You will have to [built themselves manually](https://www.gtk.org/docs/installations/macos/). 😊
 
