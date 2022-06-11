@@ -17,6 +17,7 @@ These packages and their dependencies are available in the Zip file.
 - Gtk4
 - GtkSourceView 5
 - Adwaita Icon Theme
+- Libadwaita
 
 If you need more, please let me know by creating an issue. 🙂 
 
